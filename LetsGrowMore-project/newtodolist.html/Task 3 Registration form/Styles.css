@@ -1,0 +1,39 @@
+table{
+    block-size: 50px;
+	margin-top: 50px;
+	text-align: center;
+	background: rgb(26, 183, 107);
+	color: black;
+}
+
+#show th, #show td{
+	padding: 13px;
+}
+#fname{
+    background-color: blue;
+    color:white;
+}
+#lname{
+    background-color: blue;
+    color:white;
+}
+#email{
+    background-color: blue;
+    color:white;
+}
+#age{
+    background-color: blue;
+    color:white;
+}
+
+#btna td input{
+	width: 100%;
+}
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background: linear-gradient(135deg,#afe6719c,#117915);
+}
